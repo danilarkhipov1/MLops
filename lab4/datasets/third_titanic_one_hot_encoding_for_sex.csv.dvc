@@ -1,0 +1,5 @@
+outs:
+- md5: 408646500abac8c72f15ea7dd9396c3b
+  size: 16014
+  hash: md5
+  path: third_titanic_one_hot_encoding_for_sex.csv

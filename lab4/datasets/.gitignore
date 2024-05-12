@@ -1,1 +1,4 @@
 /first_titanic_modified.csv
+/titanic_original.csv
+/second_titanic_fill_missing_age_values.csv
+/third_titanic_one_hot_encoding_for_sex.csv
